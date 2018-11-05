@@ -15,5 +15,7 @@ public class MixMojo extends AbstractMojo {
     @Override
     public void execute() throws MojoExecutionException, MojoFailureException {
         System.out.println("插件测试");
+
+        //test1233232
     }
 }
